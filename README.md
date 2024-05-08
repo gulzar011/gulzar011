@@ -1,5 +1,6 @@
-<h1 align="center"> Hello! I'm Gulzar Taalaibekova <img src="https://github.com/gulzar011/animatplotlib/blob/main/animation.ipynb" width="100"></h1>
-<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
+<h1 align="center"> Hello! I'm Gulzar Taalaibekova 
+<img src="https://github.com/gulzar011/animatplotlib/blob/main/animation.ipynb" width="400"></h1>
+
 
 ### I'm a data analyst
 ** Found my passion while helping my father with data organization in excel, now fully practicing in various languages, libraries and methods. 
