@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm Gulzar Taalaibekova 
-<img src="https://github.com/gulzar011/animatplotlib/blob/main/animation.ipynb" width="400"></h1>
+<img src="https://github.com/gulzar011/animatplotlib/blob/main/animation.gif" width="400"></h1>
 
 
 ### I'm a data analyst
