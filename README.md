@@ -4,15 +4,13 @@
 
 ### I'm a data analyst
 ** Found my passion while helping my father with data organization in excel, now fully practicing in various languages, libraries and methods. 
-*<br/>This area has been incredibly inspiring to me.*
+
 
 
 ---
 ### Skills :hammer_and_wrench:
+`Python`, `SQL`, `Git`, `Redash`, `Airflow`, `PyCharm`, `Jupyter Notebook`, `Command-line`, `Probability`, `Statistics`, `Tableu`, `Power BI`, `Product Analytics`, `Airflow`
 
-- **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`, `Command-line`
-- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `Optuna`
----
 
 
 ## My Project
@@ -23,21 +21,10 @@
 
 <h2 align="center">FIND ME ON:</h1>
 <div align="center">
-last year
-
-Add telegram way for communication
-        <a href="https://t.me/Vesert">
-last year
-
-testing wakatime
-        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
-last year
-
-Add social button and testing styles
-        </a>
-last year
-
-testing wakatime
+        <a href="https://t.me/Glzr2">
+                <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+        <a href="https://gtaalaibekva2002@gmail.com">>
+                <img src= "https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
 </div>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
